@@ -4,9 +4,8 @@ import android.app.Application;
 
 import com.parse.Parse;
 
-/**
- * Created by Vaio on 14/01/2016.
- */
+///commit
+
 public class YepApplication extends Application {
     @Override
     public void onCreate() {
