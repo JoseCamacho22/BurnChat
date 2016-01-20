@@ -6,7 +6,7 @@ import com.parse.Parse;
 
 ///commit
 
-public class YepApplication extends Application {
+public class BurnChatApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
